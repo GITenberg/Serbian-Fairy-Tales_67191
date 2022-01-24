@@ -1,0 +1,37 @@
+_repo: Serbian-Fairy-Tales_67191
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stanley, Sidney
+    gutenberg_agent_id: '54149'
+    url: http://www.gutenberg.org/2009/agents/54149
+  translator:
+    agent_name: Mijatovich, Elodie L.
+    gutenberg_agent_id: '54148'
+    url: http://www.gutenberg.org/2009/agents/54148
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/ebooks/author/216
+description: ''
+gutenberg_issued: '2022-01-17'
+identifiers:
+  gutenberg: '67191'
+language: en
+pgterms:marc904: https://archive.org/details/serbianfairytale00d190/page/n7/mode/2up
+pgterms:marc905: 20200419131116milatovich
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: United States :Robert M. McBride & Co.,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Serbian Fairy Tales
+url: http://www.gutenberg.org/ebooks/67191
