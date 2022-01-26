@@ -9,6 +9,9 @@ contributor:
     agent_name: Mijatovich, Elodie L.
     gutenberg_agent_id: '54148'
     url: http://www.gutenberg.org/2009/agents/54148
+covers:
+- cover_type: archival
+  image_path: 67191-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67191#Serbian-Fairy-Tales
 gutenberg_issued: '2022-01-17'
 identifiers:
   gutenberg: '67191'
